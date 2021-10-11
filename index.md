@@ -1,3 +1,3 @@
 ### Navigate back to [Main Page](https://sanserguz.github.io/main/)<br><br>
   
-  Thesis Progress Journal
+  _Thesis Progress Journal is under development.
