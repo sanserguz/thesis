@@ -5,7 +5,7 @@
    Master of Science Thesis, Industrial Engineering, Boğaziçi University<br>
 
  
- **Thesis Title:** Sustaining contribution-based public healthcare systems against demographic challenges: dynamic simulation analysis and policy design<br> 
+**Thesis Title:** Sustaining contribution-based public healthcare systems against demographic challenges: dynamic simulation analysis and policy design<br> <br>
 **Advisors:** Assoc. Prof. Gönenç Yücel, Asst. Prof. Özge Karanfil <br><br>
 **Motivation:** With the demographic factors of aging population and increased chronic disease prevalence , funding and provision of public healthcare systems are facing an alarming amount of pressure across the world. These factors not only contribute to the cost escalation trends in healthcare sector, but also causes less inflow to the sickness/government funds devoted to healthcare, since the share of the revenue generating portion of the population gradually decreases. The most direct consequences we have on the horizon are reductions in public coverages and increases in coinsurance levels. Having private supplementary insurances in the market, the extent of this modification bears the risks of privatization of healthcare systems or even a complete convergence to the private insurance model, fulfilling the prophecies on commodification of healthcare. Alternative modes of financing should be sought to prepare for demographic challenges, which may include allocation of public revenues for healthcare, labor immigration policies to promote incoming workers, or even a transformation of healthcare provision structure from curative to preventive & palliative care. 
 
