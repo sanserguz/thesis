@@ -1,7 +1,8 @@
 ### Navigate back to [Main Page](https://sanserguz.github.io/main/)<br><br>
   
   _Thesis Progress Journal is currently under development._<br><br>
-  
+ 
+ **Thesis Title:** Sustaining contribution-based public healthcare systems against demographic challenges: dynamic simulation analysis and policy design<br>
  Master of Science Thesis, Industrial Engineering, Boğaziçi University
  
 **Thesis Advisors:** Assoc. Prof. Gönenç Yücel, Asst. Prof. Özge Karanfil <br><br>
