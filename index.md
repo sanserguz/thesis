@@ -1,4 +1,4 @@
-### Navigate back to [Main Page](https://sanserguz.github.io/main/)<br><br>
+### Navigate back to [Main Page](https://sanserguz.github.io/)<br><br>
   
   _Thesis Progress Journal is currently under development._<br><br>
   
